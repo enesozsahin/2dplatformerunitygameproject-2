@@ -1,2 +1,2 @@
 # 2dplatformerunitygameproject-2
-This code is based on Brackeys 
+This code is inspired by Brackeys 
